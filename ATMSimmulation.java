@@ -69,6 +69,7 @@ public class ATMSimmulation {
 			}
 
 		} while (num != 4);
+		scan.close();
 
 	}
 }
